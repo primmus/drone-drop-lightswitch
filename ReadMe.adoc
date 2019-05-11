@@ -3,7 +3,7 @@
 :Revision: version 1.1
 :License: Public Domain
 
-= Project: {Drone Release Light Sensor}
+= Project: Drone Release Light Sensor
 
 This code is used to open a servo when it detects light from your drone. Connectd everything as shown in step 2.
 U can use an Arduino Uno or Nano and the code would be the same. 
