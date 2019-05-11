@@ -22,6 +22,8 @@ image::Owl_Arduino_Drone_Routing.JPG[]
 
 Upload the code contained in this sketch on to your board
 
+In the code you will see that the lightvalue is set for >900 that means when it detects a lot of light (flashlight on the sensor) it will open the Servo. If you want to open the servo by less light look in the Monitor what number it gives by the preffered light and set the number on that value. 
+
 === Folder structure
 
 ....
